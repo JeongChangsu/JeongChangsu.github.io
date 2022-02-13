@@ -1,3 +1,7 @@
+---
+title: "데이터 인코딩 - Label encoding, One-Hot encoding"
+---
+
 ----
 
 안녕하세요. 데이터 사이언티스트를 위한 정보를 공유하고 있습니다.
