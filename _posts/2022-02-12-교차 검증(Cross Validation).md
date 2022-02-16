@@ -1,7 +1,7 @@
 ---
 title: "교차 검증(Cross Validation) 1"
 ---
-K-Fold CV, LOOCV, Stratified K-Fold CV
+K-Fold CV, LOOCV, Stratified CV
 
 ----
 
@@ -43,7 +43,7 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 마지막으로 수능 시험(테스트 데이터 세트)에서 실력을 평가한다.   "
 
-라는 흐름으로 기억하시면 좋을 것 같습니다.
+이런 흐름으로 모델링에 대해 기억하시면 좋을 것 같습니다.
 
 ----
 
