@@ -1,7 +1,7 @@
 ---
 title: "교차 검증(Cross Validation) 1"
 ---
-K-Fold CV, LOOCV, Stratified CV
+K-Fold CV, LOOCV, Stratified K-Fold CV
 
 ----
 
