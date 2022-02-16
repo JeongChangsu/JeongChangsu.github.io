@@ -1,7 +1,7 @@
 ---
 title: "교차 검증(Cross Validation) 2"
 ---
-GridSearch Cross Validation
+GridSearch CV
 
 ----
 
