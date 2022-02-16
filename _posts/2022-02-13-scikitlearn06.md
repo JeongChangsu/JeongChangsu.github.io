@@ -1,6 +1,7 @@
 ---
-title: "데이터 인코딩 - Label encoding, One-Hot encoding"
+title: "데이터 인코딩(Data Encoding) 2"
 ---
+One-Hot encoding, Label encoding
 
 ----
 
