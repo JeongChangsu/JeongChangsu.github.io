@@ -1,6 +1,6 @@
 ---
 title: "회귀(Regression)"
-categories: AI/ML/DL
+# categories: AI/ML/DL
 author_profile: false
 ---
 Regression, 선형 회귀, RSS, Loss function

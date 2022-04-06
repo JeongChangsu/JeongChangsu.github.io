@@ -1,6 +1,6 @@
 ---
 title: "학습 데이터와 테스트 데이터의 분리"
-categories: AI/ML/DL
+# categories: AI/ML/DL
 author_profile: false
 ---
 train_test_split(): train data / test data

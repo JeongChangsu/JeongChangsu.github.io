@@ -1,6 +1,6 @@
 ---
 title: "교차 검증(Cross Validation) 1"
-categories: AI/ML/DL
+# categories: AI/ML/DL
 author_profile: false
 ---
 K-Fold CV, LOOCV, Stratified K-Fold CV
