@@ -1,5 +1,6 @@
 ---
 title: "경사 하강법(Gradient Descent)"
+categories: AI/ML/DL
 ---
 Gradient Descent, SGD, Batch
 
