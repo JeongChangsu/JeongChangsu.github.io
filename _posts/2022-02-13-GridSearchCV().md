@@ -1,6 +1,7 @@
 ---
 title: "교차 검증(Cross Validation) 2"
 categories: AI/ML/DL
+author_profile: false
 ---
 GridSearch CV
 
