@@ -1,5 +1,6 @@
 ---
 title: "데이터 인코딩(Data Encoding) 2"
+categories: AI/ML/DL
 ---
 Mean target encoding
 

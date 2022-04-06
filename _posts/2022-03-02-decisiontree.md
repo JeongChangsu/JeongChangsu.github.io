@@ -1,5 +1,6 @@
 ---
 title: "Decision Tree"
+categories: AI/ML/DL
 ---
 동작 원리, 하이퍼 파라미터, 시각화, 피처 중요도
 

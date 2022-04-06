@@ -1,5 +1,6 @@
 ---
 title: "데이터 스케일링(Data Scaling)"
+categories: AI/ML/DL
 ---
 StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler
 

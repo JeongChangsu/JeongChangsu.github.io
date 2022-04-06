@@ -1,5 +1,6 @@
 ---
 title: "데이터 인코딩(Data Encoding) 1"
+categories: AI/ML/DL
 ---
 One-Hot encoding, Label encoding
 
