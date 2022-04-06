@@ -26,7 +26,7 @@ Decision Tree 모델을 기반으로 하는 머신러닝 모델들이 요즘 대
 
 직관적인 이해를 돕기 위해 다음 그림을 먼저 살펴보겠습니다.
 
-![decisiontree](../images/2022-03-02-decisiontree/decisiontree.png)
+![decisiontree](../../images/2022-03-02-decisiontree/decisiontree.png)
 
 Decision Tree 모델의 알고리즘을 직관적으로 이해하기 위해 그린 그림입니다.
 
@@ -178,7 +178,7 @@ graphviz.Source(dot_graph)
 
 Out:
 
-![decisiontree_10_0](../images/2022-03-02-decisiontree/decisiontree_10_0.png)
+![decisiontree_10_0](../../images/2022-03-02-decisiontree/decisiontree_10_0.png)
 
 
   In:
@@ -240,7 +240,7 @@ graphviz.Source(dot_graph)
 
 Out:
 
-![decisiontree_14_0](../images/2022-03-02-decisiontree/decisiontree_14_0.png)
+![decisiontree_14_0](../../images/2022-03-02-decisiontree/decisiontree_14_0.png)
 
 max_depth를 제한함으로써 트리의 구조가 간단해진 것을 확인할 수 있었습니다.
 
@@ -268,7 +268,7 @@ graphviz.Source(dot_graph)
 
 Out:
 
-![decisiontree_16_0](../images/2022-03-02-decisiontree/decisiontree_16_0.png)
+![decisiontree_16_0](../../images/2022-03-02-decisiontree/decisiontree_16_0.png)
 
 클래스가 완벽하게 분류되지 않아도 데이터 샘플 수가 10개보다 적으면 더 이상 노드가 분할되지 않는 모습입니다.
 

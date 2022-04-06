@@ -124,7 +124,7 @@ One-Hot encoding은 인코딩하려는 카테고리 피처 값의 모든 종류�
 
 글로는 이해가 어려울 수 있는데 다음 그림을 보시면 바로 이해가 되실 거에요.
 
-<img src="../images/2022-02-13-scikitlearn06/onehot.jpg" alt="onehot" style="zoom:50%;" />
+<img src="../../images/2022-02-13-scikitlearn06/onehot.jpg" alt="onehot" style="zoom:50%;" />
 
 모든 과일 종류가 칼럼으로 만들어지고,
 
