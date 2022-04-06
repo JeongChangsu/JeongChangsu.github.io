@@ -34,9 +34,9 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 ----
 
-경사 하강법의 이해를 돕기 위해 비용 함수를 간단히 w에 대한 2차 함수 곡선의 형태로 나타내면 다음 그림과 같을 것입니다.
+경사 하강법의 이해를 돕기 위해 비용 함수를 간단히 w에 대한 2차 함수 곡선의 형태로 나타내면 다음 그림과 같을 것입니다.<img src="../images/2022-03-29-gradient_descent/gradient_descent-9226045.png" alt="gradient_descent" style="zoom:50%;" />
 
-<img src="../images/2022-03-29-gradient_descent/gradient_descent.png" alt="gradient_descent" style="zoom:50%;" />
+
 
 이때 처음 위치에서 기울어진 방향으로 학습을 반복하여 오류를 줄여나가며 최소 지점을 찾아내는 것이 경사 하강법입니다.
 
