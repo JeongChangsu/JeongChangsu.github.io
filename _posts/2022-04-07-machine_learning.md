@@ -20,6 +20,8 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 서로가 상하위 개념으로 관련이 있습니다.
 
+<img src="../../images/2022-04-07-machine_learning/machinelearning.png" alt="machinelearning" style="zoom:50%;" />
+
 인공지능은 인간의 지능을 모방하고 구현하려는 컴퓨터 사이언스의 분야 중 하나이고,
 
 머신러닝은 인공지능의 하위 개념으로서 인공지능의 여러 분야 중 하나입니다.
