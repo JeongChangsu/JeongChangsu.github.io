@@ -1,5 +1,5 @@
 ---
-title: "딥러닝의 가중치 업데이트 - 역전파(Backpropagation)"
+title: "인공 신경망의 가중치 업데이트 - 역전파(Backpropagation)"
 # categories: AI/ML/DL
 author_profile: false
 ---
@@ -26,7 +26,7 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 편의를 위해 단순한 인공신경망을 구성해보겠습니다.
 
-![feedforward](../images/2022-04-18-backpropagation/feedforward.png)
+<img src="../images/2022-04-18-backpropagation/feedforward.png" alt="feedforward" style="zoom:150%;" />
 
 먼저 Feed-Forward 계산, 즉 정방향으로 계산하여 오차를 계산해야합니다.
 
@@ -56,7 +56,7 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 이것이 바로 역전파 알고리즘입니다.
 
-![packpropagation1](../images/2022-04-18-backpropagation/packpropagation1.png)
+<img src="../images/2022-04-18-backpropagation/packpropagation1.png" alt="packpropagation1" style="zoom:150%;" />
 
 그림에는 8개의 가중치가 있는데 그중에서 먼저 역전파 1단계에 계산되는 w5, w6, w7, w8 중에서 w5를 업데이트하는 과정을 살펴보겠습니다.
 
@@ -78,7 +78,7 @@ w6, w7, w8도 같은 방식으로 구할 수 있습니다.
 
 이번에는 역전파 2단계에서 계산되는 w1, w2, w3, w4 중에서 w1를 업데이트하는 과정을 살펴보겠습니다.
 
-![packpropagation2](../images/2022-04-18-backpropagation/packpropagation2.png)
+<img src="../images/2022-04-18-backpropagation/packpropagation2.png" alt="packpropagation2" style="zoom:150%;" />
 
 마찬가지로 예측 오류를 w1에 대해 미분한 값에 학습률을 곱하고,
 
