@@ -1,5 +1,5 @@
 ---
-title: "딥러닝(Machine Learning)"
+title: "딥러닝(Deep Learning)"
 # categories: AI/ML/DL
 author_profile: false
 ---
