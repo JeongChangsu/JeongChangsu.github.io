@@ -50,7 +50,9 @@ plt.show()
 ```
 
 
-​    Out:![_activation_function_2_0](../images/2022-04-19-activation_function/_activation_function_2_0.png)
+​Out:
+
+![activation_function_2_0](../images/2022-04-19-activation_function/activation_function_2_0.png)
 
 
 
@@ -174,7 +176,7 @@ plt.show()
 
 Out:
 
-![_activation_function_4_0](../images/2022-04-19-activation_function/_activation_function_4_0.png)
+![activation_function_4_0](../images/2022-04-19-activation_function/activation_function_4_0.png)
 
 하이퍼볼릭 탄젠트 함수의 경우 -1과 1 사이의 값을 출력합니다.
 
@@ -212,7 +214,7 @@ plt.show()
 
 Out:
 
-![_activation_function_6_0](../images/2022-04-19-activation_function/_activation_function_6_0.png)
+![activation_function_6_0](../images/2022-04-19-activation_function/activation_function_6_0.png)
 
 보시는 바와 같이 렐루 함수는 입력값이 0보다 작을 때는 0을, 0보다 클 때는 입력값을 출력하는 함수입니다.
 
@@ -242,7 +244,7 @@ dying LeLU 문제나 not zero-centered 문제를 극복하기 위한 렐루 함�
 
 ----
 
-4. 리키 렐루(Leaky ReLU Function)
+# 4. 리키 렐루(Leaky ReLU Function)
 
 'leaky'는 '새는'이라는 뜻을 갖고 있습니다.
 
@@ -266,7 +268,7 @@ plt.show()
 
 Out:
 
-![_activation_function_8_0](../images/2022-04-19-activation_function/_activation_function_8_0.png) 
+![activation_function_8_0](../images/2022-04-19-activation_function/activation_function_8_0.png) 
 
 녹색 점선은 x축이고, 리키 렐루 함수는 입력이 음수일 때 0이 아니라 미세하지만 음의 방향으로 새어나가는 것을 확인할 수 있습니다.
 
@@ -304,7 +306,7 @@ plt.show()
 
 Out:
 
-![_activation_function_10_0](../images/2022-04-19-activation_function/_activation_function_10_0.png)
+![activation_function_10_0](../images/2022-04-19-activation_function/activation_function_10_0.png)
 
 
 입력이 음수일 때 출력이 0이 아니기 때문에 역시 Dying ReLU 문제나 not zero-centered 문제를 해결하며,
@@ -351,7 +353,7 @@ plt.show()
 
 Out:
 
-![_activation_function_13_0](../images/2022-04-19-activation_function/_activation_function_13_0.png)
+![activation_function_13_0](../images/2022-04-19-activation_function/activation_function_13_0.png)
 
 In:
 
