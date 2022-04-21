@@ -1,5 +1,5 @@
 ---
-title: "Decision Tree"
+title: "의사 결정 나무(Decision Tree_"
 # categories: AI/ML/DL
 author_profile: false
 ---
@@ -14,7 +14,7 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 ----
 
-# Decision Tree(결정 트리)
+# Decision Tree
 
 Decision Tree 모델은 if-then-else 규칙을 직관적으로 잘 구현한 모델입니다.
 
