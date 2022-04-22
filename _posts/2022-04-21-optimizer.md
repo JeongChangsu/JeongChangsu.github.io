@@ -30,7 +30,7 @@ M1 Macbook Air를 사용하고 있으며, 블로그의 모든 글은 Mac을 기�
 
 Momentum은 경사 하강법을 보정하는 방식의 옵티마이저입니다.
 
-![minima](../images/2022-04-21-optimizer/minima.png)
+![momentumgraph](../images/2022-04-21-optimizer/momentumgraph-0620838.png)
 
 가중치 업데이트 시 가중치는 예측 오류를 최소화하기 위해 글로벌 미니마(Global Minima)로 향해야합니다.
 
