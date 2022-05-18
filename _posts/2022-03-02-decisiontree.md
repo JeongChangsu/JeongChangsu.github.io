@@ -1,5 +1,5 @@
 ---
-title: "의사 결정 나무(Decision Tree_"
+title: "의사 결정 나무(Decision Tree)"
 # categories: AI/ML/DL
 author_profile: false
 ---
